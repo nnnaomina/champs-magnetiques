@@ -190,7 +190,7 @@ if __name__ == "__main__":
 
             print(f"{prev_commit=} {next_commit=}")
             URL = (
-                "https://raw.githubusercontent.com/tt-thoma/champs-magnetiques/{0}/examples/results/"
+                "https://raw.githubusercontent.com/nnnaomina/champs-magnetiques/{0}/examples/results/"
                 "{1}/{2}"
             )
             summary += "\n# Results\n\n"
